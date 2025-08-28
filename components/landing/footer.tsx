@@ -6,7 +6,7 @@ export function Footer() {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-3 mb-4">
               <div className="w-10 h-10 bg-accent rounded-lg flex items-center justify-center">
-                <span className="text-accent-foreground font-bold text-lg">RSF</span>
+                <span className="text-accent-foreground font-bold text-lg">RSHCE</span>
               </div>
               <div>
                 <h3 className="text-xl font-bold">Renu Sharma Foundation</h3>
