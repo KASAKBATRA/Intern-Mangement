@@ -91,7 +91,7 @@ export function Sidebar({ activeSection, onSectionChange }: SidebarProps) {
       <div className="p-6 border-b border-slate-800">
         <div className="flex items-center justify-between">
           <div>
-            <h2 className="text-lg font-semibold">RSF Portal</h2>
+            <h2 className="text-lg font-semibold">RSHCE Portal</h2>
             <p className="text-sm text-slate-400">{user.role}</p>
           </div>
           <Button
